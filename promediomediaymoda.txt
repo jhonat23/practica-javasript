@@ -1,0 +1,11 @@
+Promedio: 
+- mediaaritmetica: (valor1 + valor2 + valor3)/cantidad de datos
+Poco utíl cuando hay un dato muy disperso en comparación a otros
+
+Mediana:
+- Organizando los datos de mayor a menor y tomando el elemento del medio se logra la Mediana
+- Si hay elementos par se toman dos elementos de la mitad y se le hace un promedio
+
+Moda:
+- Elemento que más se repite en una lista
+
