@@ -1,9 +1,9 @@
-const lista = [
-    100,
-    200,
-    500,
-    40000000,
-]
+// const lista = [
+//     100,
+//     200,
+//     500,
+//     40000000,
+// ]
 
 function calculoMediana(lista1){
     //Ordenando la lista
